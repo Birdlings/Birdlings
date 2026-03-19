@@ -2,7 +2,7 @@
 <html>
     
 <div align="center">
-<img src="https://c.tenor.com/Uj_f7bEJ-vwAAAAC/tenor.gif" width="300" height="200">
+<img src="https://c.tenor.com/Uj_f7bEJ-vwAAAAC/tenor.gif" width="300" height="120">
 <img src="https://64.media.tumblr.com/tumblr_lts5rq1Yk41qkxcjso1_500.gifv" width="300" height="135">
 
 </div>

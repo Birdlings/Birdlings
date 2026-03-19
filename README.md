@@ -13,11 +13,7 @@
 </div>
 
 <div align="center">
-
-<img src="https://64.media.tumblr.com/ccf2ec0c402000c21b370b8698864953/36afa839df5dd5b9-5f/s250x400/9509b374f0a370e643490954d9e81136d7082930.gifv">
 <img src="https://64.media.tumblr.com/e7383e93fddde1250ffc9a033e04a95b/c8f93d60cbf5d3c8-8e/s540x810/ef941a76a5c11976a095b04921ef247626880da5.gifv">
-<img src="https://64.media.tumblr.com/ccf2ec0c402000c21b370b8698864953/36afa839df5dd5b9-5f/s250x400/9509b374f0a370e643490954d9e81136d7082930.gifv">
-‎ 
 </div>
 
 <div align="center">

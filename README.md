@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <div class="column">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRqenptOHE2cXYyMTZmdjA1aDhxeXRkZzJ3eHFmOWEyeDZiencwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bc9qTn1yMEHiRIpy3X/giphy.gif" 
+    <img src="https://64.media.tumblr.com/7498d0e2376a7c9ffbd07f5392d34111/beb333483249a2a4-23/s500x750/e0ca3b50349f1d1d726d0f7eac1610bbfd832946.gifv" 
 </body>
 </html>
 

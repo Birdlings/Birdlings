@@ -1,19 +1,9 @@
 <!DOCTYPE html>
 <html>
-
-<body>
-    <div class="column">
-        <img src="https://64.media.tumblr.com/7498d0e2376a7c9ffbd07f5392d34111/beb333483249a2a4-23/s500x750/e0ca3b50349f1d1d726d0f7eac1610bbfd832946.gifv">
-    </div>
-    <div class="column">
-        <img src="https://64.media.tumblr.com/7498d0e2376a7c9ffbd07f5392d34111/beb333483249a2a4-23/s500x750/e0ca3b50349f1d1d726d0f7eac1610bbfd832946.gifv"">
-    </div>
-    </div>
-
-
-  
+    
   <div class="column">
-    <img src="https://64.media.tumblr.com/7498d0e2376a7c9ffbd07f5392d34111/beb333483249a2a4-23/s500x750/e0ca3b50349f1d1d726d0f7eac1610bbfd832946.gifv" 
+    <img src="https://64.media.tumblr.com/7498d0e2376a7c9ffbd07f5392d34111/beb333483249a2a4-23/s500x750/e0ca3b50349f1d1d726d0f7eac1610bbfd832946.gifv"
+        </div>
 </body>
 </html>
 

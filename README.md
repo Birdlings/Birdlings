@@ -2,8 +2,8 @@
 <html>
     
 <div align="center">
-<img src="https://64.media.tumblr.com/7498d0e2376a7c9ffbd07f5392d34111/beb333483249a2a4-23/s500x750/e0ca3b50349f1d1d726d0f7eac1610bbfd832946.gifv">
-<img src="https://64.media.tumblr.com/tumblr_lts5rq1Yk41qkxcjso1_500.gifv" width="500" height="215">
+<img src="https://64.media.tumblr.com/7498d0e2376a7c9ffbd07f5392d34111/beb333483249a2a4-23/s500x750/e0ca3b50349f1d1d726d0f7eac1610bbfd832946.gifv" width="300" height="200">
+<img src="https://64.media.tumblr.com/tumblr_lts5rq1Yk41qkxcjso1_500.gifv" width="300" height="135">
 
 </div>
 
